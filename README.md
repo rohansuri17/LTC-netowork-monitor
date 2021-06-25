@@ -1,1 +1,1 @@
-# LTC-netowork-monitor
+# LTC-network-monitor
